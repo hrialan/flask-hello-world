@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-4. Open the browser and navigate to `http://localhost:8000/`
+4. Open the browser and navigate to `http://localhost:8080/`
